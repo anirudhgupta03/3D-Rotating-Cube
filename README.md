@@ -14,5 +14,9 @@
   * Point3D
   * Mouse
   * ClickType
-  
+ ## Features
+ * Zoom In
+ * Zoom Out
+ * Rotation along X-axis, Y-axis and Z-axis
+ ## Demo
 ![](https://media.giphy.com/media/tOt51ozuhCqg1MV617/giphy.gif)
