@@ -19,4 +19,18 @@
  * Zoom Out
  * Rotation along X-axis, Y-axis and Z-axis
  ## Demo
-![](https://media.giphy.com/media/tOt51ozuhCqg1MV617/giphy.gif)
+* Zoom In/Zoom Out <br/>
+
+![](https://media.giphy.com/media/Q3RrhKTfMRIqqChEMt/giphy.gif)
+
+* Rotation along X-axis
+
+![](https://media.giphy.com/media/QpIEYhTpMZtDrXgSNE/giphy.gif)
+
+* Rotation along Y-axis
+
+![](https://media.giphy.com/media/nLEZXSxYpdR9mFr426/giphy.gif)
+
+* Rotation along Z-axis
+
+![](https://media.giphy.com/media/22t0u5GLuDBWdcG4yG/giphy.gif)
