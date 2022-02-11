@@ -1,6 +1,7 @@
 # 3D Rotating Cube
-## Tech Stack: OOPs, Java, Swing
 ## Aim: Development of 3D computer animations through Matrix Operations
+## Tech Stack: OOPs, Java, Swing
+
 
 ## Abstract
 * This project demonstrates how the basic 3D transformations can be programmed in Java to show the movements of a 3D object.
